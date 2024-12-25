@@ -11,7 +11,7 @@
 
 <br>
 
-. &nbsp;&nbsp;&nbsp;&nbsp; 02.&nbsp;&nbsp; [Star Topology: 1 Switch + 4 PC´s ]()
+. &nbsp;&nbsp;&nbsp;&nbsp; 02.&nbsp;&nbsp; [Star Topology: 1 Switch + 4 PC´s ](https://github.com/RosanaFSS/Computer_Networking_Simulations/blob/main/02.%20Star%20Topology:%201%20Switch%20+%204%20PC%C2%B4s.md)
 
 <br>
 
