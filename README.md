@@ -1,7 +1,6 @@
-<h1>Computer Networking Simulations</h1>
+<h3 align="left"> $$\textcolor{#ed5ac1}{\textnormal{PROZ AWS Arquitet@s Program}}$$ <br>
+<h1>$$\textcolor{white}{\textnormal{Computer Networking Simulations}}$$</h1>
 
-<h2>PROZ AWS Architect Program</h2>
-<br>
 
 
 <h2>Cisco Packet Tracer</h2>
